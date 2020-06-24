@@ -1,0 +1,62 @@
+body
+{
+    background-color:blue;
+    
+}
+
+#bloc_du_formulaire
+{
+    background-color:white;
+    width:35%;
+    height:50%;
+    position:absolute;
+    left:30%;
+    top:15%;
+    border-radius:5%;
+    
+}
+
+
+
+#bloc_du_formulaire label
+{
+    font-size:250%;
+    font-family:times new romans;
+    font-weight:bold;
+    padding:5%;
+    margin-top:5%;
+    
+}
+
+input
+{
+    font-size:50%;
+}
+
+select
+{
+    margin-left:5%;
+}
+
+
+#boutton_connection
+{
+    text-align:center;
+    font-size:90%;
+    border-radius:
+}
+
+#connecter
+{
+   font-size:175%;
+    
+}
+
+#img0
+{
+    position:relative;
+    left:50%
+    display:block;
+    background-color:white;
+    border-radius:75%;
+}

@@ -1,0 +1,122 @@
+    body
+{
+    background-color:yellow;
+}
+
+.bloc_nav ul
+{
+    background-color:#1589FF;
+    height:40px;
+    padding:2px;
+    width:auto;
+}
+
+.bloc_nav li
+{
+    font-size:25px;
+    color:white;
+    font-weight:bold;
+    border-left:2px groove #7FE817;
+    background-color:#1589FF;
+    line-height:30px;
+    display:inline;
+    margin:0;
+    margin-left:50px;
+  
+}
+
+.bloc_nav ul li:hover
+{
+   font-size:25px;
+    color:white;
+    font-weight:bold;
+    border-left:2px groove #7FE817;
+    background-color:#1589FF;
+    line-height:30px;
+    display:inline;
+    margin:0;
+    margin-left:50px;   
+}
+
+.box_mail_in_nav img    
+{
+    position:relative;
+    width:40px;
+    height:35px;
+    
+    }
+
+.box_mail_in_nav
+{
+   position:absolute; 
+    top:-35px;
+    left:680px;
+}
+
+#bloc_internet
+{
+    margin-left:2%;
+    margin-right:2%;
+    margin-top:1%; 
+    border-top:15px groove #1171E5;
+    border-left:8px groove #1171E5;
+    border-radius:10%;
+    padding:2%;
+    padding-bottom:1%;
+}
+
+#bloc_internet p
+{
+    font-size:150%;
+    font-family:times new romans;
+    text-align:justify;
+    width:auto;
+}
+
+
+#video_1,#video_3, #audio_4,#video_5
+{
+    display:none;
+}
+
+#video_2
+{
+    width:98%;
+    position:relative;
+    left:0%;
+}
+
+
+#bloc_terminologie_histoire p
+{
+    font-size:160%;
+    font-family:times new romans;
+    text-align:justify;
+    width:auto;
+  
+}
+
+#bloc_gouvernance_et_juridiction
+{
+    font-size:160%;
+    font-family:times new romans;
+    text-align:justify;
+    width:auto;
+}
+
+#audio_1, #audio_2, #audio_3, #audio_4
+{
+    display:none;
+}
+
+#bloc_technique_internet p
+{
+    font-size:160%;
+    font-family:times new romans;
+    text-align:justify;
+    width:auto;
+}
+
+
+
+
